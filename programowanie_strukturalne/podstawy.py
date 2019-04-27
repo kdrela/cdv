@@ -55,3 +55,29 @@ print(nazwisko[-2]) #k
 print(nazwisko[-2:]) #ki
 print(nazwisko[:-2]) #Kowals
 print(nazwisko[:-2:2]) #Kwi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
